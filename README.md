@@ -13,4 +13,4 @@ System requirements:\
 Idk a cpu and a few other parts. Also a C compiler if one wants to run this for some reason.
 
 Note:\
-This project was made entirely with AI (actual intelligence, I wrote this myself. I know crazy doing things manually when Microslop coslopilot exists)
+This project was made entirely with AI (actual intelligence, I wrote this myself. I know crazy doing things manually)
