@@ -13,7 +13,6 @@ int main(void) {
 	      while((ch = getchar()) != '\n' && ch != EOF);
       }
     }
-    fflush(stdin);
     printf("You're right\n");
   }
 }
